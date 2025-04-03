@@ -1,10 +1,10 @@
-[![JM5f4EP.md.png](https://freeimage.host/i/35wxFt4)
+![telas do projeto](https://iili.io/35waoLg.png)
 
 
-[![JM5q1F1.png](https://freeimage.host/i/35wxFt4)
+![JM5q1F1.png](https://iili.io/35wab3v.png)
 # Aplicativo de Links 
 
-Aplicativo para adicionar links em React Native.
+Aplicativo para adicionar links, desenvolvido em React Native.
 
 ## 🔥 Introdução
 
