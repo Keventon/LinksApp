@@ -10,7 +10,8 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     alignItems: "center",
     justifyContent: "space-between",
-    paddingHorizontal: 24,
+    paddingLeft: 24,
+    paddingRight: 40,
     marginBottom: 24,
   },
   title: {
